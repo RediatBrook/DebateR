@@ -43,12 +43,15 @@ include("./html/maintheme.html");
                             Register Account
                         </a>
                     </form>
-                    <div class="text-center">
-                        <a class="small" href="forgot-password.html">Forgot Password?</a>
-                    </div>
-                    <div class="text-center">
-                        <a class="small" href="login.html">Already have an account? Login!</a>
-                    </div>
+                    <br>
+                    <div class="row align-items-center">
+                        <div class="text-center col">
+                            <a class="small" href="forgot-password.html">Forgot Password?</a>
+                        </div>
+                        <div class="text-center col">
+                                <a class="small" href="register.php">Create an Account!</a>
+                        </div>
+                    </div>             
                 </div>
             </div>
         </div>
