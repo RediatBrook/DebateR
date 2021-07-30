@@ -1,6 +1,7 @@
 <?php
-include("./html/maintheme.html");
+include("./html/maintheme2.html");
 ?>
+<link rel="stylesheet" href="./css/styles.min.css">
 
 <div class="container">
 
