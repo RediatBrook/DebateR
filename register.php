@@ -1,5 +1,5 @@
 <?php
-include("./html/maintheme2.html");
+include("./html/prelogin.html");
 ?>
 <link rel="stylesheet" href="./css/styles.min.css">
 
